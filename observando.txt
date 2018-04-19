@@ -1,0 +1,13 @@
+babs_datacheck.py e babs_visualizations.py
+    -> scripts para verificação de dados, relatórios e estátisticas básicas
+
+Os arquivos são nomeados com mês e ano(201408, 201508)
+
+station_data.csv 
+    -> informações básicas de locais e capacidade das estações.
+
+trip_data.csv 
+    -> informações sobre cada viagem realizada usando o compartilhamento de bikes.
+
+weather_data.csv 
+    -> informação metereológica de cada estação
